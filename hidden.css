@@ -1,0 +1,18 @@
+.even   {
+border: 1px black solid;
+background-color: red;
+display: inline;
+visibility: hidden;
+}
+.odd   {
+    border: 1px black solid;
+    background-color: red;
+    
+    display: inline;
+    margin-left: 5px;
+    }
+    div{
+        display: inline;
+    
+        padding: 10px;
+    }
